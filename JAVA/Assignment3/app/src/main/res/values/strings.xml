@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MyCookBook</string>
+    <string name="recipe_name_hint">Enter the name of the recipe.</string>
+    <string name="recipe_name_label">Name</string>
+    <string name="recipe_ingredients_hint">Add ingredients.</string>
+    <string name="recipe_ingredients_label">Ingredients</string>
+    <string name="recipe_instructions_hint">Enter the recipe instructions.</string>
+    <string name="recipe_instructions_label">Instructions</string>
+    <string name="recipe_date_hint">Monday 01 Jan 1970</string>
+    <string name="recipe_date">Recipe Date</string>
+    <string name="recipe_title_hint">Recipe Name</string>
+    <string name="date_picker_title">Recipe added date:</string>
+    <string name="new_recipe">New Recipe</string>
+    <string name="show_subtitle">Show No of recipes</string>
+    <string name="hide_subtitle">Hide No of recipes</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d recipe</item>
+        <item quantity="other">%1$d recipes</item>
+    </plurals>
+    <string name="delete_recipe">Delete Recipe</string>
+    <string name="empty_cookbook_message">The Cookbook is empty!\nTo add a new recipe \nclick on \"+\" above!</string>
+    <string name="empty_cookbook_message_hint">The CookBook is empty!</string>
+    <string name="invite_dinner_guest" tools:keep="@string/invite_dinner_guest">Invite guest</string>
+    <string name="invite_dinner_guest_hint">Invite guest</string>
+    <string name="recipe_details_text">\nRecipe name: %1s\nCategory: %2s\nDate %3s.\n\nIngredients:\n%4s\n\nInstructions:\n%5s</string>
+    <string name="recipe_details_name_text">MyCookbook Recipe</string>
+    <string name="send_recipe_hint">Send recipe via</string>
+    <string name="send_recipe">Send recipe via</string>
+    <string name="recipe_details_no_guest">\nMissing a guest.</string>
+    <string name="recipe_details_guest">\nInvited guest: %s.</string>
+    <string name="intent_action_send">text/plain</string>
+    <string name="thumbnail_image">thumbnail image</string>
+    <string name="take_photo">Must first take a photo.</string>
+    <string name="recipe_category">Category</string>
+    <string name="todo">TODO</string>
+</resources>

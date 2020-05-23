@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<ArrayOfAnimal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Animal xsi:type="Dog">
+    <AnimalID>Dog001</AnimalID>
+    <Name>TestDog1</Name>
+    <Age>4.2</Age>
+    <Gender>Female</Gender>
+    <NumberOfTeeth>42</NumberOfTeeth>
+    <dietRequirements>
+      <foodDescriptionList>
+        <string>Dog diet.</string>
+        <string>Adult dogs should be fed at least twice a day</string>
+        <string>High quality balanced premium commercial dog food that is appropriate for their life stage.</string>
+        <string>The amount of food required will depend on your dog's size, breed, age and level of exercise</string>
+        <string>But take care not to overfeed or underfeed.</string>
+        <string>Natural foods include fresh human - grade raw meat(e.g.raw lamb).</string>
+        <string>Raw meaty bones and finely cut vegetables.</string>
+        <string>Fresh drinking water must be available at all times</string>
+      </foodDescriptionList>
+    </dietRequirements>
+    <Breed>Irish Setter</Breed>
+  </Animal>
+  <Animal xsi:type="Dog">
+    <AnimalID>Dog002</AnimalID>
+    <Name>TestDog2</Name>
+    <Age>6</Age>
+    <Gender>Male</Gender>
+    <NumberOfTeeth>42</NumberOfTeeth>
+    <dietRequirements>
+      <foodDescriptionList>
+        <string>Dog diet.</string>
+        <string>Adult dogs should be fed at least twice a day</string>
+        <string>High quality balanced premium commercial dog food that is appropriate for their life stage.</string>
+        <string>The amount of food required will depend on your dog's size, breed, age and level of exercise</string>
+        <string>But take care not to overfeed or underfeed.</string>
+        <string>Natural foods include fresh human - grade raw meat(e.g.raw lamb).</string>
+        <string>Raw meaty bones and finely cut vegetables.</string>
+        <string>Fresh drinking water must be available at all times</string>
+      </foodDescriptionList>
+    </dietRequirements>
+    <Breed>Irish Wolfhound</Breed>
+  </Animal>
+  <Animal xsi:type="Dog">
+    <AnimalID>Dog003</AnimalID>
+    <Name>AtestDog</Name>
+    <Age>2.5</Age>
+    <Gender>Male</Gender>
+    <NumberOfTeeth>42</NumberOfTeeth>
+    <dietRequirements>
+      <foodDescriptionList>
+        <string>Dog diet.</string>
+        <string>Adult dogs should be fed at least twice a day</string>
+        <string>High quality balanced premium commercial dog food that is appropriate for their life stage.</string>
+        <string>The amount of food required will depend on your dog's size, breed, age and level of exercise</string>
+        <string>But take care not to overfeed or underfeed.</string>
+        <string>Natural foods include fresh human - grade raw meat(e.g.raw lamb).</string>
+        <string>Raw meaty bones and finely cut vegetables.</string>
+        <string>Fresh drinking water must be available at all times</string>
+      </foodDescriptionList>
+    </dietRequirements>
+    <Breed>Irish Wolfhound</Breed>
+  </Animal>
+  <Animal xsi:type="Dog">
+    <AnimalID>Dog004</AnimalID>
+    <Name>BtestDog</Name>
+    <Age>2.5</Age>
+    <Gender>Male</Gender>
+    <NumberOfTeeth>42</NumberOfTeeth>
+    <dietRequirements>
+      <foodDescriptionList>
+        <string>Dog diet.</string>
+        <string>Adult dogs should be fed at least twice a day</string>
+        <string>High quality balanced premium commercial dog food that is appropriate for their life stage.</string>
+        <string>The amount of food required will depend on your dog's size, breed, age and level of exercise</string>
+        <string>But take care not to overfeed or underfeed.</string>
+        <string>Natural foods include fresh human - grade raw meat(e.g.raw lamb).</string>
+        <string>Raw meaty bones and finely cut vegetables.</string>
+        <string>Fresh drinking water must be available at all times</string>
+      </foodDescriptionList>
+    </dietRequirements>
+    <Breed>Irish Wolfhound</Breed>
+  </Animal>
+  <Animal xsi:type="Dog">
+    <AnimalID>Dog005</AnimalID>
+    <Name>ZtestDog</Name>
+    <Age>2.5</Age>
+    <Gender>Male</Gender>
+    <NumberOfTeeth>42</NumberOfTeeth>
+    <dietRequirements>
+      <foodDescriptionList>
+        <string>Dog diet.</string>
+        <string>Adult dogs should be fed at least twice a day</string>
+        <string>High quality balanced premium commercial dog food that is appropriate for their life stage.</string>
+        <string>The amount of food required will depend on your dog's size, breed, age and level of exercise</string>
+        <string>But take care not to overfeed or underfeed.</string>
+        <string>Natural foods include fresh human - grade raw meat(e.g.raw lamb).</string>
+        <string>Raw meaty bones and finely cut vegetables.</string>
+        <string>Fresh drinking water must be available at all times</string>
+      </foodDescriptionList>
+    </dietRequirements>
+    <Breed>Irish Wolfhound</Breed>
+  </Animal>
+  <Animal xsi:type="Dolphin">
+    <AnimalID>Dolphin006</AnimalID>
+    <Name>TestDolphin1</Name>
+    <Age>12</Age>
+    <Gender>Unknown</Gender>
+    <NumberOfTeeth>90</NumberOfTeeth>
+    <dietRequirements>
+      <foodDescriptionList>
+        <string>Dolphin diet.</string>
+        <string>While some dolphins eat fishes like herring, cod or mackerel.</string>
+        <string>Some others eat squids or other cephalopods.</string>
+        <string>Large dolphins like orcas, eat marine mammals.</string>
+        <string>For example seals or sea lions and sometimes even turtles.</string>
+      </foodDescriptionList>
+    </dietRequirements>
+    <Species>Bottlenose</Species>
+  </Animal>
+  <Animal xsi:type="Dolphin">
+    <AnimalID>Dolphin007</AnimalID>
+    <Name>TestDolphin2</Name>
+    <Age>38.2</Age>
+    <Gender>Unknown</Gender>
+    <NumberOfTeeth>62</NumberOfTeeth>
+    <dietRequirements>
+      <foodDescriptionList>
+        <string>Dolphin diet.</string>
+        <string>While some dolphins eat fishes like herring, cod or mackerel.</string>
+        <string>Some others eat squids or other cephalopods.</string>
+        <string>Large dolphins like orcas, eat marine mammals.</string>
+        <string>For example seals or sea lions and sometimes even turtles.</string>
+      </foodDescriptionList>
+    </dietRequirements>
+    <Species>Atlantic Humpbacked</Species>
+  </Animal>
+  <Animal xsi:type="Ostrich">
+    <AnimalID>Ostrich008</AnimalID>
+    <Name>TestOstrich1</Name>
+    <Age>22.5</Age>
+    <Gender>Male</Gender>
+    <Species>Blue neck</Species>
+    <dietRequirements>
+      <foodDescriptionList>
+        <string>Ostrich diet.</string>
+        <string>Ostrich birds are browsers, they do not graze.</string>
+        <string>They mainly feed on seeds, shrubs, grass, fruit and flowers.</string>
+        <string>Occasionally they also eat insects such as locusts</string>
+        <string>Lacking teeth, they swallow pebbles that act as gastrocolic to grind food in the gizzard.</string>
+      </foodDescriptionList>
+    </dietRequirements>
+    <WingSpan>2</WingSpan>
+  </Animal>
+  <Animal xsi:type="Ostrich">
+    <AnimalID>Ostrich009</AnimalID>
+    <Name>TestOstrich2</Name>
+    <Age>32.5</Age>
+    <Gender>Female</Gender>
+    <Species>Red neck</Species>
+    <dietRequirements>
+      <foodDescriptionList>
+        <string>Ostrich diet.</string>
+        <string>Ostrich birds are browsers, they do not graze.</string>
+        <string>They mainly feed on seeds, shrubs, grass, fruit and flowers.</string>
+        <string>Occasionally they also eat insects such as locusts</string>
+        <string>Lacking teeth, they swallow pebbles that act as gastrocolic to grind food in the gizzard.</string>
+      </foodDescriptionList>
+    </dietRequirements>
+    <WingSpan>2</WingSpan>
+  </Animal>
+  <Animal xsi:type="Penguin">
+    <AnimalID>Penguin010</AnimalID>
+    <Name>TestPenguin1</Name>
+    <Age>2.5</Age>
+    <Gender>Unknown</Gender>
+    <Species>Emperor</Species>
+    <dietRequirements>
+      <foodDescriptionList>
+        <string>Penguin diet.</string>
+        <string>Penguins eat seafood.</string>
+        <string>Their main diet is fish.</string>
+        <string>They'll also eat squid and krill</string>
+      </foodDescriptionList>
+    </dietRequirements>
+    <WingSpan>2</WingSpan>
+  </Animal>
+  <Animal xsi:type="Penguin">
+    <AnimalID>Penguin011</AnimalID>
+    <Name>TestPenguin2</Name>
+    <Age>10.5</Age>
+    <Gender>Unknown</Gender>
+    <Species>Adelie</Species>
+    <dietRequirements>
+      <foodDescriptionList>
+        <string>Penguin diet.</string>
+        <string>Penguins eat seafood.</string>
+        <string>Their main diet is fish.</string>
+        <string>They'll also eat squid and krill</string>
+      </foodDescriptionList>
+    </dietRequirements>
+    <WingSpan>0.7</WingSpan>
+  </Animal>
+  <Animal xsi:type="Bee">
+    <AnimalID>Bee012</AnimalID>
+    <Name>beee</Name>
+    <Age>1</Age>
+    <Gender>Male</Gender>
+    <IsPoisonous>true</IsPoisonous>
+    <dietRequirements>
+      <foodDescriptionList>
+        <string>Bee diet.</string>
+        <string>The honey bee diet consists of two staples, both of which are produced by flowers.</string>
+        <string>Nectar and Pollen.</string>
+        <string>Sugar syrup can be fed to them during winter.</string>
+        <string>Alternatively if it is too cold, use fondant and sugar candy.</string>
+      </foodDescriptionList>
+    </dietRequirements>
+    <LarvalPhase>false</LarvalPhase>
+  </Animal>
+</ArrayOfAnimal>

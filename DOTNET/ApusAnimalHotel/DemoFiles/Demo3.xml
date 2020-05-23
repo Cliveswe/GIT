@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfRecipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Recipe>
+    <Name>Dog Special</Name>
+    <Ingredients>
+      <m_list>
+        <string>2 pig ears</string>
+        <string>1 medium-sized bone</string>
+      </m_list>
+    </Ingredients>
+  </Recipe>
+  <Recipe>
+    <Name>Penguin</Name>
+    <Ingredients>
+      <m_list>
+        <string>2 fish</string>
+        <string>more fish</string>
+      </m_list>
+    </Ingredients>
+  </Recipe>
+</ArrayOfRecipe>

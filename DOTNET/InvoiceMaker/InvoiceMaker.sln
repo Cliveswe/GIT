@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceMaker", "InvoiceMaker\InvoiceMaker.csproj", "{0D7E70F1-9285-41DA-8EE9-16320AA1CCC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D7E70F1-9285-41DA-8EE9-16320AA1CCC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7E70F1-9285-41DA-8EE9-16320AA1CCC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7E70F1-9285-41DA-8EE9-16320AA1CCC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7E70F1-9285-41DA-8EE9-16320AA1CCC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27156223-705E-4F97-9F19-D1303E163020}
+	EndGlobalSection
+EndGlobal

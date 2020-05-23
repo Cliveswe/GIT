@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ApusAnimalHotel.ViewModel.ContentEnumToText" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ContentEnumToText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.UIMainWindowIO" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAggAAAAAAAUAAgAgAAAAAAAAIgAAQAAACCBAAAEA=</HashCode>
+      <FileName>ViewModel\UIMainWindowIO.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ValidateTextDoubleInputOutput" Collapsed="true">
+    <Position X="20.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ViewModel\ValidateTextDoubleInputOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ValidateTextInputOutput" Collapsed="true">
+    <Position X="22.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ValidateTextInputOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ValidateTextIntNonNullInputOutput" Collapsed="true">
+    <Position X="24.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>ViewModel\ValidateTextIntNonNullInputOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ValidateTextYNInputOutput" Collapsed="true">
+    <Position X="26" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ValidateTextYNInputOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.AnimalCriteria.CriteriaBird" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\AnimalCriteria\CriteriaBird.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.AnimalCriteria.CriteriaInsect" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\AnimalCriteria\CriteriaInsect.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.AnimalCriteria.CriteriaMammal" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\AnimalCriteria\CriteriaMammal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.AnimalImagesLoader.AnimalImagesUI" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\AnimalImagesLoader\AnimalImagesUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.AnimalSpecificationsBoxIO.AnimalSpecifications" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAQAAAAABACACABAAAAAAJAAAIAAACA=</HashCode>
+      <FileName>ViewModel\AnimalSepecsBlock\AnimalCategorySpecificationsBlock\AnimalSpecifications.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.AnimalSepecsBlock.AnimalCategorySpecificationsBlock.InputOutputCategoryOfAnimal" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQFAAgAAABAAAIQCCgABACAIAAACAAgCAAgAQAAAYA=</HashCode>
+      <FileName>ViewModel\AnimalSepecsBlock\AnimalCategorySpecificationsBlock\InputOutputCategoryOfAnimal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.AnimalSepecsBlock.AnimalObjectSpecificationsBlock.InputOutputAnimalObject" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAgAAIAAAACQCSgAAAAAIBAACIAwCAQIAQAAAgA=</HashCode>
+      <FileName>ViewModel\AnimalSepecsBlock\AnimalObjectSpecificationsBlock\InputOutputAnimalObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.AnimalSepecsBlock.AnimalSpecificationsUI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQQABIgAAQAACAAAEAgAIAIAIgEIAAQAgCAAAAAiA=</HashCode>
+      <FileName>ViewModel\AnimalSepecsBlock\AnimalSpecificationsUI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.AnimalSepecsBlock.DoubleInputOutput" Collapsed="true">
+    <Position X="3" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>ViewModel\AnimalSepecsBlock\DoubleInputOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.AnimalSepecsBlock.InputOutputAnimalAge" Collapsed="true">
+    <Position X="24.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAACAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\AnimalSepecsBlock\InputOutputAnimalAge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.AnimalSepecsBlock.InputOutputAnimalName" Collapsed="true">
+    <Position X="26" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAgAAAAA=</HashCode>
+      <FileName>ViewModel\AnimalSepecsBlock\InputOutputAnimalName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ButtonControls.AddNewAnimalButton" Collapsed="true">
+    <Position X="10.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAEAAACEAACAQAAAAAQAAAIgBIAAAEAgAAAAA=</HashCode>
+      <FileName>ViewModel\ButtonControls\AddNewAnimalButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ButtonControls.AnimalButton" Collapsed="true">
+    <Position X="10.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAIAAgUAAKAEAEAAAgAIAAAEAAAAEAAAAAAA=</HashCode>
+      <FileName>ViewModel\ButtonControls\AnimalButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ButtonControls.DeleteAnimalButton" Collapsed="true">
+    <Position X="12.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAAAAEAAGAAAAAIAQAAAIBAIAAAGAAAgAgA=</HashCode>
+      <FileName>ViewModel\ButtonControls\DeleteAnimalButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ButtonControls.LoadAnimalImageButton" Collapsed="true">
+    <Position X="14.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAABAAEIoAAAAQAAAAAABAEAAAAAEAAAAAAA=</HashCode>
+      <FileName>ViewModel\ButtonControls\LoadAnimalImageButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.Commands.RelayCommands" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAQEAABAAAAAAAgAAAAAAAAAAEA=</HashCode>
+      <FileName>ViewModel\Commands\RelayCommands.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FeedingScheduleCheckBox.DietTypeHeaderIO" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\FeedingScheduleCheckBox\DietTypeHeaderIO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FeedingScheduleCheckBox.FeedingScheduleDetails" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAABACAIAAAgAAAgAAAAAFAAAAEAAAAAAA=</HashCode>
+      <FileName>ViewModel\FeedingScheduleCheckBox\FeedingScheduleDetails.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FeedingScheduleCheckBox.FeedingSchedulelUI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAKAQAAAQIAEAAAgAgQIAAAAAAAAAAAQAIAA=</HashCode>
+      <FileName>ViewModel\FeedingScheduleCheckBox\FeedingSchedulelUI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FoodDetails.FoodDetailsInDetail" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABgAAIAAAAAAAggAAAAAAACAAAAAAEAA=</HashCode>
+      <FileName>ViewModel\FoodDetails\FoodDetailsInDetail.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FoodDetails.FoodDetailsUI" Collapsed="true">
+    <Position X="22.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAABAAgAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\FoodDetails\FoodDetailsUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FoodDetails.RegisterDetailWindow.ButtonControls.AddFood" Collapsed="true">
+    <Position X="5.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAAAAAAEAEAEAAAIEAAAAAgAAAAQCEAAAAAAA=</HashCode>
+      <FileName>ViewModel\FoodDetails\RegisterDetailWindow\ButtonControls\AddFood.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FoodDetails.RegisterDetailWindow.ButtonControls.AddStaff" Collapsed="true">
+    <Position X="8" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAQAEBAAAAAA=</HashCode>
+      <FileName>ViewModel\FoodDetails\RegisterDetailWindow\ButtonControls\AddStaff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FoodDetails.RegisterDetailWindow.ButtonControls.ChildWindowControl" Collapsed="true">
+    <Position X="7" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAQAEAAAAAAA=</HashCode>
+      <FileName>ViewModel\FoodDetails\RegisterDetailWindow\ButtonControls\ChildWindowControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FoodDetails.RegisterDetailWindow.FoodRegister" Collapsed="true">
+    <Position X="0.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAABABEIAAAQAAAAAAAABAAQAAAAAAAAAAAAAAABkA=</HashCode>
+      <FileName>ViewModel\FoodDetails\RegisterDetailWindow\FoodRegister.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FoodDetails.RegisterDetailWindow.RegisterHeader" Collapsed="true">
+    <Position X="1.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UiIAiAQYQMzABFFDKQAAIEAAgBEAIAFVQQBBAAAADAA=</HashCode>
+      <FileName>ViewModel\FoodDetails\RegisterDetailWindow\RegisterHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FoodDetails.RegisterDetailWindow.StaffRegister" Collapsed="true">
+    <Position X="2.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAIAAAAAIBAAQAAAAAAgAAAAAAABBAA=</HashCode>
+      <FileName>ViewModel\FoodDetails\RegisterDetailWindow\StaffRegister.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FoodDetails.FoodDetailsWindow.RegisterInput" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\FoodDetails\RegisterDetailWindow\RegisterInput.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.GroupListBoxIO.AnimalCategories" Collapsed="true">
+    <Position X="8.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAEBAAICoEAAAAAQABACAAICAAAAAAQAQEAAgAAA=</HashCode>
+      <FileName>ViewModel\GroupListBoxIO\AnimalCategories.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.GroupListBoxIO.AnimalObjects" Collapsed="true">
+    <Position X="11" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAkAAAAAAMAAAgAQABACAAIAAAAAAAAAQEAAwAAA=</HashCode>
+      <FileName>ViewModel\GroupListBoxIO\AnimalObjects.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.GroupListBoxIO.GroupListBoxInteractive" Collapsed="true">
+    <Position X="11" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAgAIAAFAABIAEABAAAgAAAgQAAAACAGABgAAA=</HashCode>
+      <FileName>ViewModel\GroupListBoxIO\GroupListBoxInteractive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.GroupListBoxIO.SelectGender" Collapsed="true">
+    <Position X="13.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAAAAAEAAAAAAABACAAAAAAAAAAAAAEAAgAAA=</HashCode>
+      <FileName>ViewModel\GroupListBoxIO\SelectGender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.LabelTextBoxIO.TextInputOutput" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAEABAAQAAKBgEAAAEgAAAAAAAAEAAAhAAAAA=</HashCode>
+      <FileName>ViewModel\LabelTextBoxIO\TextInputOutput.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.LabelTextBoxIO.TextInputOutputDecoratorDouble" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>ViewModel\LabelTextBoxIO\TextInputOutputDecoratorDouble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ListAnimaObjectsInDetail.ListAnimalObjectsInDetailUI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BA4oIEBkAACBGAECKEYADACA5IgQQAICCkAAAggIAiA=</HashCode>
+      <FileName>ViewModel\ListAnimalObjectsInDetail\ListAnimalObjectsInDetailUI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ListAnimaObjectsInDetail.ListedAnimalDetails" Collapsed="true">
+    <Position X="19" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAhMAAAAAAAgACAAEBAAAQAAAEgAggIAAAAAAAAAEA=</HashCode>
+      <FileName>ViewModel\ListAnimalObjectsInDetail\ListedAnimalDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ListAnimaObjectsInDetail.SortingMethods.ComparAges" Collapsed="true">
+    <Position X="0.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ListAnimalObjectsInDetail\SortingMethods\ComparAges.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ListAnimaObjectsInDetail.SortingMethods.ComparGender" Collapsed="true">
+    <Position X="3" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ListAnimalObjectsInDetail\SortingMethods\ComparGender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ListAnimaObjectsInDetail.SortingMethods.ComparNames" Collapsed="true">
+    <Position X="5.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ListAnimalObjectsInDetail\SortingMethods\ComparNames.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ListAnimaObjectsInDetail.SortingMethods.SortingMethodBy" Collapsed="true">
+    <Position X="3" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ListAnimalObjectsInDetail\SortingMethods\SortingMethodBy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ListRegisterAnimalsCheckBox.AnimalCheckBox" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAgABAIAAAAAAAoAAABAAAAAAAAAAIgAA=</HashCode>
+      <FileName>ViewModel\ListRegisterAnimalsCheckBox\AnimalCheckBox.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ListRegisterAnimalsCheckBox.AnimalSubscription" Collapsed="true">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAEIAAAAQAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ListRegisterAnimalsCheckBox\AnimalSubscription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.ListRegisterAnimalsCheckBox.ListAllAnimals" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgIAEARQAAAIAAAAAQBAAAAIIABAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ListRegisterAnimalsCheckBox\ListAllAnimals.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.File.FileNameAndExtensionTester" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\MenuUI\File\FileNameAndExtensionTester.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.File.MenuFile" Collapsed="true">
+    <Position X="22.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>5AAAAAAAAAACAEQRIBgogAAQAAAggIAAAAAAEEBAgAA=</HashCode>
+      <FileName>ViewModel\MenuUI\File\MenuFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.File.MenuFileExit" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEgAAACKAAAABAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>ViewModel\MenuUI\File\MenuFileExit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.File.MenuFileItems" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAMAIgQAIKAEAAQAAgAAAAAAAAAAAIgAAACQ=</HashCode>
+      <FileName>ViewModel\MenuUI\File\MenuFileItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.File.MenuFileNew" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEgAAAAIAAAABAAAAAAAEAAAAAAAAAAAACI=</HashCode>
+      <FileName>ViewModel\MenuUI\File\MenuFileNew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.File.MenuFileSave" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAEAAAAAIAAAAAAgAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>ViewModel\MenuUI\File\SaveFile\MenuFileSave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.File.MenuFileSaveAs" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAICIAEAEAAAKAAAAAAhABAAAAAAABAAAAAAQBAA=</HashCode>
+      <FileName>ViewModel\MenuUI\File\SaveFile\MenuFileSaveAs.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.File.OpenFile.MenuFileOpenAs" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAEAEIAAKABAAAAhABAAAEIAABAAAAAAABAA=</HashCode>
+      <FileName>ViewModel\MenuUI\File\OpenFile\MenuFileOpenAs.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.File.XML.XMLExportTo" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEgICIAEAAAIAIAIEAgAgABAAAEAAABAAAAAAQBAA=</HashCode>
+      <FileName>ViewModel\MenuUI\File\XML\XMLExportTo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.Menu" Collapsed="true">
+    <Position X="20.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAEAAAAAIAAAAAAAAgAAAAAACBAAAAAA=</HashCode>
+      <FileName>ViewModel\MenuUI\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.AppOkCancelMessageBox" Collapsed="true">
+    <Position X="24.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>ViewModel\Util\AppOkCancelMessageBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.AppOkMessageBox" Collapsed="true">
+    <Position X="26" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\Util\AppOkMessageBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.ContentOfEnumToText&lt;T&gt;" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\Util\ContentOfEnumToText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.Util.SerializationUtility" Collapsed="true">
+    <Position X="17.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAEEAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\Util\SerializationUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ApusAnimalHotel.ViewModel.AnimalCriteria.IGenusCriteria" Collapsed="true">
+    <Position X="20.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\AnimalCriteria\IGenusCriteria.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApusAnimalHotel.ViewModel.ButtonControls.IButtonAnimal" Collapsed="true">
+    <Position X="17.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAEAAAAEAAAAAAAIAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>ViewModel\ButtonControls\IButtonAnimal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApusAnimalHotel.ViewModel.ButtonControls.ObserverAnimalButton" Collapsed="true">
+    <Position X="20.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ButtonControls\ObserverAnimalButton.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApusAnimalHotel.ViewModel.ButtonControls.SubjectDeleteAnimalButton" Collapsed="true">
+    <Position X="26" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAIBAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ButtonControls\SubjectDeleteAnimalButton.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApusAnimalHotel.ViewModel.ButtonControls.SubjectNewAnimalButton" Collapsed="true">
+    <Position X="17.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAACAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ButtonControls\SubjectNewAnimalButton.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApusAnimalHotel.ViewModel.GroupListBoxIO.Observer" Collapsed="true">
+    <Position X="19" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\GroupListBoxIO\Observer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApusAnimalHotel.ViewModel.GroupListBoxIO.Subject" Collapsed="true">
+    <Position X="24.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAQAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\GroupListBoxIO\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApusAnimalHotel.ViewModel.LabelTextBoxIO.ILabelTextInputOutput" Collapsed="true">
+    <Position X="22.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAEAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>ViewModel\LabelTextBoxIO\ILabelTextInputOutput.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApusAnimalHotel.ViewModel.ListRegisterAnimalsCheckBox.ICheckBoxAnimal" Collapsed="true">
+    <Position X="19" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAIAAA=</HashCode>
+      <FileName>ViewModel\ListRegisterAnimalsCheckBox\ICheckBoxAnimal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApusAnimalHotel.ViewModel.ListRegisterAnimalsCheckBox.PublisherList" Collapsed="true">
+    <Position X="22.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAQAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ListRegisterAnimalsCheckBox\PublisherList.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApusAnimalHotel.ViewModel.MenuUI.File.OpenFile.IOpenFile" Collapsed="true">
+    <Position X="24.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAABAAAAgABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\MenuUI\File\OpenFile\IOpenFiles.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApusAnimalHotel.ViewModel.MenuUI.File.SaveFile.ISaveFiles" Collapsed="true">
+    <Position X="26" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAgABAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ViewModel\MenuUI\File\SaveFile\ISaveFiles.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApusAnimalHotel.ViewModel.MenuUI.MenuCommand" Collapsed="true">
+    <Position X="17.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAIAAEAAAAAAAAAAAAAAAAAAgAAAAQ=</HashCode>
+      <FileName>ViewModel\MenuUI\IMenuCommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ApusAnimalHotel.ViewModel.AnimalCategoryEnum" Collapsed="true">
+    <Position X="17.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\AnimalCategoryEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ApusAnimalHotel.ViewModel.BirdEnum" Collapsed="true">
+    <Position X="19" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAgAAAAAAAA=</HashCode>
+      <FileName>ViewModel\BirdEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ApusAnimalHotel.ViewModel.ContentTextEnum" Collapsed="true">
+    <Position X="20.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAEAAgBCCgEAAgAwCEAgEAQAAAAEAAACACAA=</HashCode>
+      <FileName>ViewModel\ContentTextEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ApusAnimalHotel.ViewModel.GenderEnum" Collapsed="true">
+    <Position X="22.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAABA=</HashCode>
+      <FileName>ViewModel\GenderEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ApusAnimalHotel.ViewModel.InsectEnum" Collapsed="true">
+    <Position X="24.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>ViewModel\InsectEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ApusAnimalHotel.ViewModel.MammalEnum" Collapsed="true">
+    <Position X="26" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\MammalEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ApusAnimalHotel.ViewModel.MenuUI.MenuContentTextEnum" Collapsed="true">
+    <Position X="17.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIABAAAAICAAAAAAAGAAIAQEIAAAIAAAAIAIgAA=</HashCode>
+      <FileName>ViewModel\MenuUI\MenuContentTextEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

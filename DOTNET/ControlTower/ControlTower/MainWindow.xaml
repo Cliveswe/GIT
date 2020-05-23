@@ -1,0 +1,61 @@
+﻿<Window x:Class="ControlTower.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlTower.Subscribers"
+        mc:Ignorable="d" ResizeMode="NoResize"
+        Title="{Binding Title, Mode=OneWay}" Height="600" Width="600" Icon="Resources/airline-logos.png" TabIndex="-1" >
+    <Window.DataContext>
+        <local:AirTrafficControlTower></local:AirTrafficControlTower>
+    </Window.DataContext>
+   
+    <Window.Resources>
+        <!--Error Template to change the default behaviour-->
+        <ControlTemplate x:Key="ErrorTemplate">
+            <DockPanel LastChildFill="True">
+                <Border BorderBrush="Red" BorderThickness="1">
+                    <AdornedElementPlaceholder />
+                </Border>
+            </DockPanel>
+        </ControlTemplate>
+        <!--To display tooltip with the error-->
+        <Style TargetType="TextBox">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="true">
+                    <Setter Property="ToolTip" Value="{Binding RelativeSource={x:Static RelativeSource.Self}, Path=(Validation.Errors)[0].ErrorContent}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid FocusManager.FocusedElement="{Binding ElementName=flight_Code_tb}">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <GroupBox Header="{Binding EnterFlightNumberHeader, Mode=OneWay}" Height="97" Margin="10,0,10,10" VerticalAlignment="Bottom" Grid.Row="1" BorderThickness="1" BorderBrush="#FF7C8285">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="281*"/>
+                    <ColumnDefinition Width="275*"/>
+                </Grid.ColumnDefinitions>
+                <Button Content="{Binding SendNextAeroPlaneToRunway.ButtonContent}" Margin="41,15,0,0" VerticalAlignment="Top" Width="224" Height="30" Grid.Column="1" HorizontalAlignment="Left" VerticalContentAlignment="Center" IsEnabled="{Binding SendNextAeroPlaneToRunway.IsEnabled}" Command="{Binding SendNextAeroPlaneToRunway.ButtonCommand}" CommandParameter="{Binding FlightCodeTextbox.TextIO}" TabIndex="1" />
+                <Label Content="{Binding NextFlightLabel, Mode=OneWay}" HorizontalAlignment="Left" Margin="10,15,0,0" Width="77" Height="30" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
+                <TextBox x:Name="flight_Code_tb" HorizontalAlignment="Left" Height="30" Margin="92,15,0,0" TextWrapping="Wrap" Text="{Binding FlightCodeTextbox.TextIO, Mode=TwoWay, NotifyOnValidationError=True, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" VerticalAlignment="Top" Width="213" Grid.ColumnSpan="2" VerticalContentAlignment="Center"
+                         Validation.ErrorTemplate="{StaticResource ErrorTemplate}" TabIndex="0">
+                </TextBox>
+            </Grid>
+        </GroupBox>
+        <ListView Margin="10,10,10,0" VerticalContentAlignment="Top" Grid.RowSpan="2" VerticalAlignment="Top" Height="438" BorderBrush="#FF7C8285" ItemsSource="{Binding FlightQueue}" FontSize="14"  >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="{Binding FlightCodeTag, Mode=OneWay}" Width="160" DisplayMemberBinding="{Binding FlightCode}"/>
+                    <GridViewColumn Header="{Binding FlightStatusTag, Mode=OneWay}" Width="220" DisplayMemberBinding="{Binding FlightStatus}"/>
+                    <GridViewColumn Header="{Binding FlightTimeStampTag, Mode=OneWay}" Width="160" DisplayMemberBinding="{Binding FlightUpdateTime}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+
+    </Grid>
+</Window>

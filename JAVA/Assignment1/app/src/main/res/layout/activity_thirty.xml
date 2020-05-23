@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cliveleddy.assignment1.thirty.ThirtyActivity"
+    android:id="@+id/top_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <RelativeLayout
+        android:id="@+id/dice_layout"
+        android:layout_width="318dp"
+        android:layout_height="202dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:gravity="top|center_horizontal"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints">
+
+        <ImageButton
+            android:id="@+id/Die_1_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/Die_4_button"
+            android:contentDescription="@string/die_1"
+            app:srcCompat="@drawable/white1" />
+
+        <ImageButton
+            android:id="@+id/Die_2_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/Die_1_button"
+            android:contentDescription="@string/die_2"
+            app:srcCompat="@drawable/white2" />
+
+        <ImageButton
+            android:id="@+id/Die_3_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/Die_2_button"
+            android:contentDescription="@string/die_3"
+            app:srcCompat="@drawable/white3" />
+
+        <ImageButton
+            android:id="@+id/Die_4_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/Die_1_button"
+
+            android:contentDescription="@string/die_4"
+            app:srcCompat="@drawable/white4" />
+
+        <ImageButton
+            android:id="@+id/Die_5_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/Die_2_button"
+            android:layout_below="@+id/Die_2_button"
+
+            android:contentDescription="@string/die_5"
+            app:srcCompat="@drawable/white5" />
+
+        <ImageButton
+            android:id="@+id/Die_6_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/Die_3_button"
+            android:layout_below="@+id/Die_3_button"
+
+            android:contentDescription="@string/die_6"
+            app:srcCompat="@drawable/white6" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/game_status"
+        android:layout_width="268dp"
+        android:layout_height="156dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/dice_layout" />
+
+    <Button
+        android:id="@+id/roll_dice"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:text="@string/roll_dice"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/calculate_dice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="8dp"
+        android:text="@string/calculate_dice"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

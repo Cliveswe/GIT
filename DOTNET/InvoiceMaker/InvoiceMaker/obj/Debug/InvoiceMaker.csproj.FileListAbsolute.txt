@@ -1,0 +1,16 @@
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\bin\Debug\InvoiceMaker.exe.config
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\bin\Debug\InvoiceMaker.exe
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\bin\Debug\InvoiceMaker.pdb
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\obj\Debug\MainWindow.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\obj\Debug\App.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\obj\Debug\InvoiceMaker_MarkupCompile.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\obj\Debug\InvoiceMaker_MarkupCompile.lref
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\obj\Debug\MainWindow.baml
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\obj\Debug\InvoiceMaker.g.resources
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\obj\Debug\InvoiceMaker.Properties.Resources.resources
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\obj\Debug\InvoiceMaker.csproj.GenerateResource.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\obj\Debug\InvoiceMaker.csproj.CoreCompileInputs.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\obj\Debug\InvoiceMaker.exe
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\obj\Debug\InvoiceMaker.pdb
+H:\University\C#\Programming with C# MAH\VT19\Assignment 6\InvoiceMaker\InvoiceMaker\obj\Debug\InvoiceMaker.csprojAssemblyReference.cache

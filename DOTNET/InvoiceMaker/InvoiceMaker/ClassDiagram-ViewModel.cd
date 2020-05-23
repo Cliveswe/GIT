@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InvoiceMaker.ViewModel.ButtonControls.AppExit" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAEACAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>ViewModel\ButtonControls\AppExit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.ButtonControls.LoadImageButton" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAABAAEIAAAAAQAAAAAABBEAAAAAEAAAAAAA=</HashCode>
+      <FileName>ViewModel\ButtonControls\LoadImageButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.ButtonControls.LoadInvoiceButton" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAIAEAAAAAAAAAAAAAAAAAAAAAEAIAAAIA=</HashCode>
+      <FileName>ViewModel\ButtonControls\LoadInvoiceButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.ButtonControls.LoadInvoiceFileNameEventArgs" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ButtonControls\LoadInvoiceFileNameEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.ButtonControls.PrintInvoiceButton" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAIAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>ViewModel\ButtonControls\PrintInvoiceButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ButtonControls.InvoiceButton" Collapsed="true">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAIAAgUAAKAEAEAAAgAIAAAEAAAAEAAAAAAA=</HashCode>
+      <FileName>ViewModel\ButtonControls\InvoiceButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InvoiceMaker.ButtonControls.RelayCommands" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAQEAABAAAAAAAgAAAAAAAAAAEA=</HashCode>
+      <FileName>ViewModel\ButtonControls\RelayCommands.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.GenerateInvoiceDocument" Collapsed="true">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAACARCAAAgAAMEBAAAAQAAUIAAAQGAAAAAIQAAIA=</HashCode>
+      <FileName>ViewModel\GenerateInvoiceDocument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.GenerateInvoiceObj" Collapsed="true">
+    <Position X="15" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cAABQBAACEAIAAAAAgAAAAAEAAAAAAAAAAAAAIAAQAA=</HashCode>
+      <FileName>ViewModel\GenerateInvoiceObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.InvoiceItemsIO" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQQCAAAAAAAAAAgAAAAAAAAAEAAAAICAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\InvoiceItemsIO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.InvoiceUI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBACJQSAQAAiBZBCYAQIGAAggEAiwESEAAFgACIDIAA=</HashCode>
+      <FileName>ViewModel\InvoiceUI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.QuantityEventArgs" Collapsed="true">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\QuantityEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.RelayCommands" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAQEAABAAAAAAAgAAAAAAAAAAEA=</HashCode>
+      <FileName>ViewModel\RelayCommands.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.Start" Collapsed="true">
+    <Position X="13.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABBAAAAAAAAAQQAAAAAAAAAQAIAAAAAAYAAACAEAAA=</HashCode>
+      <FileName>ViewModel\Start.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.Util.InvoiceParser" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAIAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\InvoiceParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.Util.AppOkCancelMessageBox" Collapsed="true">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>ViewModel\Util\AppOkCancelMessageBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.Util.AppOkMessageBox" Collapsed="true">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\Util\AppOkMessageBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.Util.OpenFileDialogBox" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\Util\OpenFileDialogBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.Util.PrintInvoiceDialogBox" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAIAAAAAAAEBAAAAEAgAAAAAQAACAgAAAAAA=</HashCode>
+      <FileName>ViewModel\Util\PrintInvoiceDialogBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvoiceMaker.ViewModel.Util.ReadFileUltility" Collapsed="true">
+    <Position X="15" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\Util\ReadFileUltility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="InvoiceMaker.ButtonControls.IButtonControl" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAEAAAAEAAAAAAAIAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>ViewModel\ButtonControls\IButtonControl.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

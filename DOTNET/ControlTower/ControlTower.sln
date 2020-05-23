@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlTower", "ControlTower\ControlTower.csproj", "{5A55C91F-5471-4F8D-A0CD-44E6889EBEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A55C91F-5471-4F8D-A0CD-44E6889EBEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A55C91F-5471-4F8D-A0CD-44E6889EBEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A55C91F-5471-4F8D-A0CD-44E6889EBEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A55C91F-5471-4F8D-A0CD-44E6889EBEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE48C9E5-5D17-4040-B5E5-A61F78913A24}
+	EndGlobalSection
+EndGlobal

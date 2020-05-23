@@ -1,0 +1,41 @@
+﻿<Window x:Class="ControlTower.FlightWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlTower.Publishers"
+        mc:Ignorable="d" ResizeMode="NoResize"
+        Title="{Binding Title}" Height="500" Width="500" Icon="Resources/airline-logos.png">
+    <Grid FocusManager.FocusedElement="{Binding ElementName=start_bt}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="53*"/>
+            <RowDefinition Height="14*"/>
+        </Grid.RowDefinitions>
+        <Border BorderBrush="Black" BorderThickness="1" Margin="10">
+            <Image Margin="2" Source="{Binding ShowImageFile}" />
+
+        </Border>
+        <GroupBox Header="{Binding FlightControlsHeader, Mode=OneWay}" Margin="10" Grid.Row="1">
+            <Grid Margin="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Button x:Name="start_bt" Content="{Binding Start.ButtonContent}" HorizontalAlignment="Left" Margin="10,0,0,12" VerticalAlignment="Bottom" Width="100" Height="35" Command="{Binding Start.ButtonCommand}" IsEnabled="{Binding Start.IsEnabled}" CommandParameter="{Binding Land.IsEnabled, BindsDirectlyToSource=True}" TabIndex="0" />
+                <Button x:Name="land_bt" Content="{Binding Land.ButtonContent}" Margin="348,0,10,11" VerticalAlignment="Bottom" Height="35" Command="{Binding Land.ButtonCommand}" IsEnabled="{Binding Land.IsEnabled}" CommandParameter="{Binding Start.IsEnabled, BindsDirectlyToSource=True}" TabIndex="2">
+                    <Button.Style>
+                        <Style>
+                            <Style.Triggers>
+                                <EventTrigger RoutedEvent="Button.Click">
+                                    <EventTrigger.Actions>
+                                        <SoundPlayerAction Source="Resources/ArriibaaAyayayay.wav" ></SoundPlayerAction>
+                                    </EventTrigger.Actions>
+                                </EventTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                </Button>
+                <ComboBox HorizontalAlignment="Left" Margin="160,0,0,12" VerticalAlignment="Bottom" Width="150" RenderTransformOrigin="0,0.545" Height="35" ItemsSource="{Binding Route.Status, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" SelectedIndex="{Binding Route.StatusSelected, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Text="{Binding Route.Status/}" IsEnabled="{Binding Route.IsEnabled}" TabIndex="1"/>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

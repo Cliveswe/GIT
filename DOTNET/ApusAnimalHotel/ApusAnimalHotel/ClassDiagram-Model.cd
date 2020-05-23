@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ApusAnimalHotel.Model.AnimalID" Collapsed="true">
+    <Position X="16.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\AnimalID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.Model.AnimalManager" Collapsed="true">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFEEAAGCAAAACAEAYAQAQBEABAEIhEIAABIGAAAABAA=</HashCode>
+      <FileName>Model\AnimalManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalMotel.Model.Animals.Animal" Collapsed="true">
+    <Position X="8" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMIIEAAAAAACEAEAABAQgAABAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Animals\Animals.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AnimalMotel.Model.Animals.Birds.Bird" Collapsed="true">
+    <Position X="8" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAQAAAAAAAQAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Animals\Birds\Bird.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AnimalMotel.Model.Animals.Birds.Ostrich" Collapsed="true">
+    <Position X="7" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAIEEAAAAAAAEAAEABgAgAAAAAAAAAQIAAAAAAAA=</HashCode>
+      <FileName>Model\Animals\Birds\Ostrich.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AnimalMotel.Model.Animals.Birds.Penguin" Collapsed="true">
+    <Position X="9.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAIEEAAAAAAAEAAEABgAgAAAAAAAAAQIAAAAAAAA=</HashCode>
+      <FileName>Model\Animals\Birds\Penguin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AnimalMotel.Model.Animals.Insects.Bee" Collapsed="true">
+    <Position X="11.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAIEEAAAAAAAEEAAABgAgAAAAAAIAAQAAAAAAAAA=</HashCode>
+      <FileName>Model\Animals\Insects\Bee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalMotel.Model.Animals.Insects.Fly" Collapsed="true">
+    <Position X="13.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAIEEAAAAAAAEEAAABgAgAAAAAAIAAQAAAAAAAAA=</HashCode>
+      <FileName>Model\Animals\Insects\Fly.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AnimalMotel.Model.Animals.Insects.Insect" Collapsed="true">
+    <Position X="12.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAQAEAAAIAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Animals\Insects\Insect.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AnimalMotel.Model.Animals.Mammals.Dog" Collapsed="true">
+    <Position X="2.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAIEEAAAAAAAEAAAABgAgAAAAAAAAAQAAAAICAAA=</HashCode>
+      <FileName>Model\Animals\Mammals\Dog.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AnimalMotel.Model.Animals.Mammals.Dolphin" Collapsed="true">
+    <Position X="4.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAGAYEEAAAAAAAEAAAABgAgAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Model\Animals\Mammals\Dolphin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AnimalMotel.Model.Animals.Mammals.Mammal" Collapsed="true">
+    <Position X="3.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAEAAAAEgAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Animals\Mammals\Mammal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AnimalMotel.Model.FeedingPlan.FoodSchedule" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAQAAAAAIAAAEAAAABAQgAAACAAAAAAAAAAAACIA=</HashCode>
+      <FileName>Model\FeedingPlan\FoodSchedule.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.File.FileName" Collapsed="true">
+    <Position X="18" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABAAkQAAAAABAAAAAhIAQAAQAACAECABACAIAAAgAA=</HashCode>
+      <FileName>Model\FileName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.MenuUI.File.SaveFileState" Collapsed="true">
+    <Position X="18" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAEAAAACAAAAAgAA=</HashCode>
+      <FileName>Model\SaveFileState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FoodDetails.Recipe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAACQhAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\FoodDetails\Recipe.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FoodDetails.RecipeManager" Collapsed="true">
+    <Position X="6.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAGAAAAAAACAAAAAAAEABCAIAMIAAAAAEAAAAAA=</HashCode>
+      <FileName>Model\FoodDetails\RecipeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FoodDetails.Staff" Collapsed="true">
+    <Position X="19.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAEAAgAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\FoodDetails\Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.ViewModel.FoodDetails.StaffManager" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\FoodDetails\StaffManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApusAnimalHotel.Model.ListManagerRegister.ListManager&lt;T&gt;" Collapsed="true">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAJACAAAABACAAAgAAAAEAQIBAIAAAAAAAAgAAAAAIA=</HashCode>
+      <FileName>Model\ListManagerRegister\ListManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="AnimalMotel.Model.Animals.IAnimal" Collapsed="true">
+    <Position X="16.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAEAAAAAACAAAAABAQAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Animals\IAnimal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApusAnimalHotel.Model.ListManagerRegister.IListManager&lt;T&gt;" Collapsed="true">
+    <Position X="18" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAJACAAAABACAAAgAAAAEAQIAAIAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Model\ListManagerRegister\IListManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="AnimalMotel.Model.FeedingPlan.EaterEnum" Collapsed="true">
+    <Position X="16.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Model\FeedingPlan\EaterEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

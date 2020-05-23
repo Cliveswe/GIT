@@ -1,0 +1,88 @@
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.exe.config
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.exe
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.pdb
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\MainWindow.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\App.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel_MarkupCompile.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel_MarkupCompile.lref
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\MainWindow.baml
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.g.resources
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.Properties.Resources.resources
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csproj.GenerateResource.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csproj.CoreCompileInputs.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.exe
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.pdb
+H:\University\C#\Programming with C# MAH\VT19\Assignment 1\Apus Animal Motel\AnimalMotelVersion2\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csprojAssemblyReference.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.exe.config
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.exe
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.pdb
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\MainWindow.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ViewModel\FoodDetails\RegisterDetailWindow\RegisterInput.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\App.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel_MarkupCompile.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel_MarkupCompile.lref
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\MainWindow.baml
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ViewModel\FoodDetails\RegisterDetailWindow\RegisterInput.baml
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.g.resources
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.Properties.Resources.resources
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csproj.GenerateResource.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csproj.CoreCompileInputs.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.exe
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.pdb
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csprojAssemblyReference.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.exe.config
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.exe
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.pdb
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csprojAssemblyReference.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\MainWindow.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ViewModel\FoodDetails\RegisterDetailWindow\RegisterInput.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\App.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel_MarkupCompile.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel_MarkupCompile.lref
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\MainWindow.baml
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ViewModel\FoodDetails\RegisterDetailWindow\RegisterInput.baml
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.g.resources
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.Properties.Resources.resources
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csproj.GenerateResource.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csproj.CoreCompileInputs.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.exe
+H:\University\C#\Programming with C# MAH\VT19\Assignment 3\Backup\20190414\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.pdb
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.exe.config
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.exe
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.pdb
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\MainWindow.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ViewModel\FoodDetails\RegisterDetailWindow\RegisterInput.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\App.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel_MarkupCompile.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel_MarkupCompile.lref
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\MainWindow.baml
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ViewModel\FoodDetails\RegisterDetailWindow\RegisterInput.baml
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.g.resources
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.Properties.Resources.resources
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csproj.GenerateResource.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csproj.CoreCompileInputs.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.exe
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.pdb
+H:\University\C#\Programming with C# MAH\VT19\Assignments\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csprojAssemblyReference.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.exe.config
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.exe
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\bin\Debug\ApusAnimalHotel.pdb
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csprojAssemblyReference.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\MainWindow.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ViewModel\FoodDetails\RegisterDetailWindow\RegisterInput.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\App.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel_MarkupCompile.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel_MarkupCompile.lref
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\MainWindow.baml
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ViewModel\FoodDetails\RegisterDetailWindow\RegisterInput.baml
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.g.resources
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.Properties.Resources.resources
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csproj.GenerateResource.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.csproj.CoreCompileInputs.cache
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.exe
+H:\University\C#\Programming with C# MAH\VT19\Assignment 4\ApusAnimalHotel\ApusAnimalHotel\obj\Debug\ApusAnimalHotel.pdb

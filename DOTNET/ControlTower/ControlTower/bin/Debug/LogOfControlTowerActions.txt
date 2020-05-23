@@ -1,0 +1,137 @@
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: AER123 :: Sent to Runway :: 2019-06-06 20:46:39
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: JAP456 :: Sent to Runway :: 2019-06-06 20:46:49
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: PGN789 :: Sent to Runway :: 2019-06-06 20:46:58
+ControlTower.Publishers.Flight :: JAP456 :: Departed :: 2019-06-06 20:47:02
+ControlTower.Publishers.Flight :: PGN789 :: Departed :: 2019-06-06 20:47:04
+ControlTower.Publishers.Flight :: AER123 :: Departed :: 2019-06-06 20:47:05
+ControlTower.Publishers.Flight :: AER123 :: 30 degrees :: 2019-06-06 20:47:07
+ControlTower.Publishers.Flight :: PGN789 :: 40 degrees :: 2019-06-06 20:47:11
+ControlTower.Publishers.Flight :: JAP456 :: 10 degrees :: 2019-06-06 20:47:13
+ControlTower.Publishers.Flight :: JAP456 :: 20 degrees :: 2019-06-06 20:47:14
+ControlTower.Publishers.Flight :: JAP456 :: 40 degrees :: 2019-06-06 20:47:16
+ControlTower.Publishers.Flight :: PGN789 :: Arrived :: 2019-06-06 20:47:18
+ControlTower.Publishers.Flight :: AER123 :: Arrived :: 2019-06-06 20:47:20
+ControlTower.Publishers.Flight :: JAP456 :: Arrived :: 2019-06-06 20:47:20
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: ASDF :: Sent to Runway :: 2019-06-06 20:57:34
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: AERLJLJ :: Sent to Runway :: 2019-06-06 21:08:02
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: JAPLASDJF :: Sent to Runway :: 2019-06-06 21:08:10
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: HWALKJ :: Sent to Runway :: 2019-06-06 21:08:16
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: HWI88 :: Sent to Runway :: 2019-06-06 21:08:29
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: HAW111 :: Sent to Runway :: 2019-06-06 21:08:51
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: PNGIII :: Sent to Runway :: 2019-06-06 21:08:59
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: SWI222 :: Sent to Runway :: 2019-06-06 21:09:16
+ControlTower.Publishers.Flight :: AERLJLJ :: Departed :: 2019-06-06 21:09:30
+ControlTower.Publishers.Flight :: JAPLASDJF :: Departed :: 2019-06-06 21:09:31
+ControlTower.Publishers.Flight :: JAPLASDJF :: 20 degrees :: 2019-06-06 21:09:32
+ControlTower.Publishers.Flight :: AERLJLJ :: 20 degrees :: 2019-06-06 21:09:34
+ControlTower.Publishers.Flight :: HWALKJ :: Departed :: 2019-06-06 21:09:35
+ControlTower.Publishers.Flight :: HWALKJ :: 10 degrees :: 2019-06-06 21:09:37
+ControlTower.Publishers.Flight :: HWALKJ :: Arrived :: 2019-06-06 21:09:37
+ControlTower.Publishers.Flight :: HAW111 :: Departed :: 2019-06-06 21:09:39
+ControlTower.Publishers.Flight :: HAW111 :: 30 degrees :: 2019-06-06 21:09:41
+ControlTower.Publishers.Flight :: HAW111 :: 20 degrees :: 2019-06-06 21:09:58
+ControlTower.Publishers.Flight :: PNGIII :: Departed :: 2019-06-06 21:09:59
+ControlTower.Publishers.Flight :: SWI222 :: Departed :: 2019-06-06 21:10:03
+ControlTower.Publishers.Flight :: SWI222 :: 20 degrees :: 2019-06-06 21:10:05
+ControlTower.Publishers.Flight :: PNGIII :: Arrived :: 2019-06-06 21:10:06
+ControlTower.Publishers.Flight :: JAPLASDJF :: Arrived :: 2019-06-06 21:10:07
+ControlTower.Publishers.Flight :: SWI222 :: 30 degrees :: 2019-06-06 21:10:09
+ControlTower.Publishers.Flight :: SWI222 :: 10 degrees :: 2019-06-06 21:10:11
+ControlTower.Publishers.Flight :: AERLJLJ :: 10 degrees :: 2019-06-06 21:10:12
+ControlTower.Publishers.Flight :: AERLJLJ :: 20 degrees :: 2019-06-06 21:10:14
+ControlTower.Publishers.Flight :: AERLJLJ :: 40 degrees :: 2019-06-06 21:10:15
+ControlTower.Publishers.Flight :: AERLJLJ :: Arrived :: 2019-06-06 21:10:16
+ControlTower.Publishers.Flight :: SWI222 :: Arrived :: 2019-06-06 21:10:17
+ControlTower.Publishers.Flight :: HAW111 :: Arrived :: 2019-06-06 21:10:18
+ControlTower.Publishers.Flight :: HWI88 :: Departed :: 2019-06-06 21:10:18
+ControlTower.Publishers.Flight :: HWI88 :: 20 degrees :: 2019-06-06 21:10:20
+ControlTower.Publishers.Flight :: HWI88 :: Arrived :: 2019-06-06 21:10:21
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: AER123 :: Sent to Runway :: 2019-06-06 21:13:10
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: SWI321 :: Sent to Runway :: 2019-06-06 21:13:17
+ControlTower.Publishers.Flight :: SWI321 :: Departed :: 2019-06-06 21:13:19
+ControlTower.Publishers.Flight :: SWI321 :: 20 degrees :: 2019-06-06 21:13:21
+ControlTower.Publishers.Flight :: AER123 :: Departed :: 2019-06-06 21:13:23
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: HWA222 :: Sent to Runway :: 2019-06-06 21:13:29
+ControlTower.Publishers.Flight :: HWA222 :: Departed :: 2019-06-06 21:13:31
+ControlTower.Publishers.Flight :: HWA222 :: 20 degrees :: 2019-06-06 21:13:36
+ControlTower.Publishers.Flight :: AER123 :: 20 degrees :: 2019-06-06 21:13:39
+ControlTower.Publishers.Flight :: AER123 :: 30 degrees :: 2019-06-06 21:13:40
+ControlTower.Publishers.Flight :: AER123 :: 40 degrees :: 2019-06-06 21:13:42
+ControlTower.Publishers.Flight :: AER123 :: Arrived :: 2019-06-06 21:13:43
+ControlTower.Publishers.Flight :: SWI321 :: Arrived :: 2019-06-06 21:13:44
+ControlTower.Publishers.Flight :: HWA222 :: Arrived :: 2019-06-06 21:13:45
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: DEFF445 :: Sent to Runway :: 2019-08-17 22:43:15
+ControlTower.Publishers.Flight :: DEFF445 :: Departed :: 2019-08-17 22:43:20
+ControlTower.Publishers.Flight :: DEFF445 :: 20 degrees :: 2019-08-17 22:43:22
+ControlTower.Publishers.Flight :: DEFF445 :: Arrived :: 2019-08-17 22:43:23
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: SDAF44 :: Sent to Runway :: 2020-05-20 19:20:01
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: ASDF55 :: Sent to Runway :: 2020-05-20 19:20:07
+ControlTower.Publishers.Flight :: ASDF55 :: Departed :: 2020-05-20 19:20:20
+ControlTower.Publishers.Flight :: ASDF55 :: 20 degrees :: 2020-05-20 19:20:28
+ControlTower.Publishers.Flight :: ASDF55 :: 10 degrees :: 2020-05-20 19:20:30
+ControlTower.Publishers.Flight :: ASDF55 :: Arrived :: 2020-05-20 19:20:32
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: EA123 :: Sent to Runway :: 2020-05-20 19:20:45
+ControlTower.Publishers.Flight :: EA123 :: Departed :: 2020-05-20 19:20:49
+ControlTower.Publishers.Flight :: EA123 :: 20 degrees :: 2020-05-20 19:20:52
+ControlTower.Publishers.Flight :: EA123 :: Arrived :: 2020-05-20 19:20:54
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: SWI123 :: Sent to Runway :: 2020-05-20 19:21:39
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: AER555 :: Sent to Runway :: 2020-05-20 19:21:53
+ControlTower.Publishers.Flight :: AER555 :: Departed :: 2020-05-20 19:21:54
+ControlTower.Publishers.Flight :: SWI123 :: Departed :: 2020-05-20 19:22:00
+ControlTower.Publishers.Flight :: SWI123 :: 20 degrees :: 2020-05-20 19:22:02
+ControlTower.Publishers.Flight :: SWI123 :: 40 degrees :: 2020-05-20 19:22:04
+ControlTower.Publishers.Flight :: AER555 :: 20 degrees :: 2020-05-20 19:22:06
+ControlTower.Publishers.Flight :: AER555 :: 30 degrees :: 2020-05-20 19:22:08
+ControlTower.Publishers.Flight :: SWI123 :: Arrived :: 2020-05-20 19:22:10
+ControlTower.Publishers.Flight :: AER555 :: Arrived :: 2020-05-20 19:22:14
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: SWI123 :: Sent to Runway :: 2020-05-20 19:22:22
+ControlTower.Publishers.Flight :: SWI123 :: Departed :: 2020-05-20 19:22:29
+ControlTower.Publishers.Flight :: SWI123 :: Arrived :: 2020-05-20 19:22:29
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: SAS111 :: Sent to Runway :: 2020-05-21 20:21:57
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: AER555 :: Sent to Runway :: 2020-05-21 20:22:04
+ControlTower.Publishers.Flight :: AER555 :: Departed :: 2020-05-21 20:22:08
+ControlTower.Publishers.Flight :: AER555 :: 30 degrees :: 2020-05-21 20:22:10
+ControlTower.Publishers.Flight :: SAS111 :: Departed :: 2020-05-21 20:22:11
+ControlTower.Publishers.Flight :: SAS111 :: 40 degrees :: 2020-05-21 20:22:12
+ControlTower.Publishers.Flight :: SAS111 :: 10 degrees :: 2020-05-21 20:22:14
+ControlTower.Publishers.Flight :: SAS111 :: 20 degrees :: 2020-05-21 20:22:20
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: PNG555 :: Sent to Runway :: 2020-05-21 20:22:34
+ControlTower.Publishers.Flight :: PNG555 :: Departed :: 2020-05-21 20:22:38
+ControlTower.Publishers.Flight :: AER555 :: 40 degrees :: 2020-05-21 20:23:02
+ControlTower.Publishers.Flight :: AER555 :: Arrived :: 2020-05-21 20:23:04
+ControlTower.Publishers.Flight :: PNG555 :: Arrived :: 2020-05-21 20:23:07
+ControlTower.Publishers.Flight :: SAS111 :: Arrived :: 2020-05-21 20:23:08
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: AER444 :: Sent to Runway :: 2020-05-21 20:29:26
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: PNG333 :: Sent to Runway :: 2020-05-21 20:29:30
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: ASDEF55 :: Sent to Runway :: 2020-05-21 20:29:32
+ControlTower.Publishers.Flight :: ASDEF55 :: Departed :: 2020-05-21 20:29:44
+ControlTower.Publishers.Flight :: PNG333 :: Departed :: 2020-05-21 20:29:44
+ControlTower.Publishers.Flight :: AER444 :: Departed :: 2020-05-21 20:29:45
+ControlTower.Publishers.Flight :: ASDEF55 :: 20 degrees :: 2020-05-21 20:29:47
+ControlTower.Publishers.Flight :: PNG333 :: 10 degrees :: 2020-05-21 20:29:50
+ControlTower.Publishers.Flight :: AER444 :: 40 degrees :: 2020-05-21 20:29:55
+ControlTower.Publishers.Flight :: AER444 :: Arrived :: 2020-05-21 20:30:02
+ControlTower.Publishers.Flight :: PNG333 :: Arrived :: 2020-05-21 20:30:04
+ControlTower.Publishers.Flight :: ASDEF55 :: Arrived :: 2020-05-21 20:30:05
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: PNG44 :: Sent to Runway :: 2020-05-21 20:31:02
+ControlTower.Publishers.Flight :: PNG44 :: Departed :: 2020-05-21 20:31:04
+ControlTower.Publishers.Flight :: PNG44 :: Arrived :: 2020-05-21 20:31:04
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: AER444 :: Sent to Runway :: 2020-05-23 20:17:46
+ControlTower.Publishers.Flight :: AER444 :: Departed :: 2020-05-23 20:17:47
+ControlTower.Publishers.Flight :: AER444 :: 20 degrees :: 2020-05-23 20:17:50
+ControlTower.Publishers.Flight :: AER444 :: Arrived :: 2020-05-23 20:17:51
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: AER666666666666 :: Sent to Runway :: 2020-05-23 20:36:08
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: AERIEROIUEWOIRUQWOE :: Sent to Runway :: 2020-05-23 20:36:15
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: ARE555 :: Sent to Runway :: 2020-05-23 20:36:21
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: PNGEE :: Sent to Runway :: 2020-05-23 20:36:30
+ControlTower.Publishers.Flight :: PNGEE :: Departed :: 2020-05-23 20:36:33
+ControlTower.Publishers.Flight :: PNGEE :: Arrived :: 2020-05-23 20:36:34
+ControlTower.Publishers.Flight :: AERIEROIUEWOIRUQWOE :: Departed :: 2020-05-23 20:36:35
+ControlTower.Publishers.Flight :: AERIEROIUEWOIRUQWOE :: Arrived :: 2020-05-23 20:36:36
+ControlTower.Publishers.Flight :: AER666666666666 :: Departed :: 2020-05-23 20:36:36
+ControlTower.Publishers.Flight :: AER666666666666 :: Arrived :: 2020-05-23 20:36:37
+ControlTower.Publishers.Flight :: ARE555 :: Departed :: 2020-05-23 20:36:38
+ControlTower.Publishers.Flight :: ARE555 :: Arrived :: 2020-05-23 20:36:39
+ControlTower.Controls.SendNextAeroplaneToRunwayButton :: AER55 :: Sent to Runway :: 2020-05-24 00:32:50
+ControlTower.Publishers.Flight :: AER55 :: Departed :: 2020-05-24 00:32:52
+ControlTower.Publishers.Flight :: AER55 :: Arrived :: 2020-05-24 00:32:53
