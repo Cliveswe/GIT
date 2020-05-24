@@ -17,22 +17,3 @@ H:\University\C#\Programming with C# MAH\VT19\Assignment 5\ControlTower\ControlT
 H:\University\C#\Programming with C# MAH\VT19\Assignment 5\ControlTower\ControlTower\obj\Debug\ControlTower.exe
 H:\University\C#\Programming with C# MAH\VT19\Assignment 5\ControlTower\ControlTower\obj\Debug\ControlTower.pdb
 H:\University\C#\Programming with C# MAH\VT19\Assignment 5\ControlTower\ControlTower\obj\Debug\ControlTower.csprojAssemblyReference.cache
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\bin\Debug\ControlTower.exe.config
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\bin\Debug\ControlTower.exe
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\bin\Debug\ControlTower.pdb
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\ControlTower.csprojAssemblyReference.cache
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\MainWindow.g.cs
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\FlightWindow.g.cs
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\App.g.cs
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\GeneratedInternalTypeHelper.g.cs
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\ControlTower_MarkupCompile.cache
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\ControlTower_MarkupCompile.lref
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\App.baml
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\MainWindow.baml
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\FlightWindow.baml
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\ControlTower.g.resources
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\ControlTower.Properties.Resources.resources
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\ControlTower.csproj.GenerateResource.cache
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\ControlTower.csproj.CoreCompileInputs.cache
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\ControlTower.exe
-e:\Clive\Jobs\GIT\DOTNET\ControlTower\ControlTower\obj\Debug\ControlTower.pdb

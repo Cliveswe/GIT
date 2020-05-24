@@ -1,0 +1,7 @@
+Erik Ekholm, erik@djupvik.se, 070-123 45 67
+Bo Lautin, bo@djupvil.se, 071-234 56 78
+Fredrik Bottarve, fredrik@djupvik.se, 072-345 67 89
+Christina Persson, christina@djupvik.se, 073-456 78 90
+Per-Erik Larsson, pere@djupvik.se, 074-567 89 01
+Maria Fagerström, maria@djupvik.se, 075-678 90 12
+Lars Bengtsson, lars@djupvik.se, 076-789 01 23

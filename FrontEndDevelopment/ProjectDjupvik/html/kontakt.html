@@ -1,0 +1,122 @@
+<!--
+    Clive Leddy (6710232551)
+    clive@cliveleddy.com
+-->
+<!DOCTYPE html>
+<html lang="sv" xml:lang="sv" xmlns="http://www.w3.org/1999/xhtml">
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="keywords" content="Djupviks Hamn" />
+        <meta name="description" content="Djupviks Hamn är både ett fiskeläge och en förening." />
+        <meta name="viewport" content="width=150, initial-scale=1.0">
+        <link rel="stylesheet" href="../stylesheets/style.css">
+        <link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
+        <script type="module" src="../scripts/CurrentSMHIReport.js"></script>
+        <script type="module" src="../scripts/index.js"></script>
+        <title>Djupviks Hamn</title>
+    </head>
+
+    <body>
+        <div id="wrapper">
+            <header>
+                <div id="smhi-widget-Current-Conditions"></div>
+                <h1>Djupviks Hamn</h1>
+                <!--Startsidan-->
+                <!--Varudeklarationen vid loggan:-->
+                <!-- header for structure-->
+                <section>
+                    <h2>Djupviks Hamn är både ett fiskeläge och en förening.</h2>
+                    <p>Föreningen består av dels ägarna till fiskelägets bodar men också andra som är intresserade av
+                        att
+                        bevara fiskeläget, dess historia och anordna olika aktiviteter.</p>
+                </section>
+
+            </header>
+            <nav>
+                <!-- web site navigation as a list-->
+                <div class="menu content">
+                    <a href="../index.html">Hem</a>
+                    <a href="gasthamnen.html">Gästhamnen</a>
+                    <a href="turistmal.html">Turistmål</a>
+                    <a href="kontakt.html">Kontakt</a>
+                    <a href="medlemsinfo.html">Medlemsinfo</a>
+                    <a href="djupvikPort.html">Port of Djupvik</a>
+                    <a href="historia.html">Historia</a>
+                </div>
+            </nav>
+            <!--Innehållsdelen:-->
+            <main>
+                <section id="kontaktuppgifter">
+                    <h2>Kontaktuppgifter</h2>
+                    <address>
+                        <p>Hamnfogde Bo Lautin, mobil 0707-920310</p>
+
+                        Djupviks hamnförening <br>
+                        c/o Ekholm <br>
+                        Eksta Hägur 170 <br>
+                        623 54 Klintehamn <br>
+                    </address>
+                </section>
+                <section id="kontaktformular">
+                    <h2>Kontaktformulär</h2>
+                    <form id="Kontaktformular_form" action="#" method="POST">
+                        <p>
+                            <label for="arendet">Rubrik för ärendet:</label>
+                            <input id="arendet" type="text" placeholder="Ärendet">
+                        </p>
+                        <!-- Choose an question title -->
+                        <p>
+                            <label for="val">Det gäller:</label>
+                            <select id="val" name="arendet">
+                                <option value="batplats">Båtplats</option>
+                                <option value="medlem">Medlem</option>
+                                <option value="ovrigt">Övrigt</option>
+                            </select>
+
+                        </p>
+                        <!-- Reply in the form of -->
+                        <p>
+                            <label>Vill bli kontaktad:</label>
+                            <select name="kontakta">
+                                <option value="mail">Mail</option>
+                                <option value="telefon">Telefon</option>
+                                <option value="inte_alls">Inte alls</option>
+                            </select>
+                        </p>
+                        <p>
+                            <label for="telefon">Telefon:</label>
+                            <input id="telefon" type="tel" placeholder="Telefon">
+                        </p>
+                        <p>
+                            <label for="mail">Mail:</label>
+                            <input id="mail" type="email" placeholder="Mail">
+                        </p>
+                        <!-- Message -->
+                        <label for="meddelande">Meddelande:</label>
+                        <textarea name="meddelande" id="meddelande" placeholder="Meddelande"
+                         ></textarea>
+                         <!--cols="30" rows="10"-->
+                        <br>
+                        <!-- Submit button -->
+                        <div class="Submit button">
+                            <input type="submit" value="send" />
+                        </div>
+                    </form>
+                </section>
+            </main>
+             <footer>
+                 <address>
+                     <div id="copyright">
+                         &copy; Copyright 2019 | <a href="http://Djupvikshamn.se">Djupvikshamn.se</a>
+
+                     </div>
+                     <div id="mailadress">
+                         mailadress: <a href="mailto:info@djupvikshamn.se">info@djupvikshamn.se</a>
+                     </div>
+                 </address>
+             </footer>
+        </div>
+    </body>
+
+</html>

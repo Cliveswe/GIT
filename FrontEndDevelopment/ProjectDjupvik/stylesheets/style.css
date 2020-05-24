@@ -1,0 +1,625 @@
+/*RESET CSS*/
+/*
+html5doctor.com Reset Stylesheet
+v1.6.1
+Last Updated: 2010-09-17
+Author: Richard Clark - http://richclarkdesign.com
+Twitter: @rich_clark
+Modified and extedned by Clive Leddy 2019-05-15
+*/
+
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+body {
+    line-height: 1.5em;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+a {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color: #ff9;
+    color: #000;
+    text-decoration: none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color: #ff9;
+    color: #000;
+    font-style: italic;
+    font-weight: bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title],
+dfn[title] {
+    border-bottom: 1px dotted;
+    cursor: help;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #cccccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+input,
+select {
+    vertical-align: middle;
+}
+
+nav ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+img {
+    max-width: 100%;
+    /*width: 100%;*/
+
+}
+
+/*END RESET CSS*/
+
+/*
+From here on down has bee created by Clive Leddy 2019-05-15
+clive.leddy@gmail.com
+*/
+/*Make sure that the padding and border are included in the
+total width and height of the elements*/
+* {
+    box-sizing: border-box;
+
+}
+
+:root {
+    --my_max_width: 1500px;
+    --my_min_width: 250px;
+    --my_background_colour: #E2E7FD;
+    --my_colour: #071973;
+    --my_background_colour_negative: #071973;
+    --my_colour_negative: #E2E7FD;
+}
+
+html,
+body {
+    height: 100%;
+    font-size: calc(18px + .25vw);
+    background-image: url(../images/body.png);
+    font-family: 'Segoe UI',
+        Tahoma,
+        Geneva,
+        Verdana,
+        sans-serif;
+}
+
+/*
+Widget
+Weather current conditions
+*/
+/*responsive table current weather data*/
+.responsive-table {
+    flex-flow: 1 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    flex-grow: 1;
+    font-size: 0.7em;
+}
+
+/*readjust the table element*/
+.responsive-table p {
+    padding: 0.2em 0em 0.2em 0.2em;
+    line-height: 0.8em;
+    min-width: 1.5em;
+}
+
+/*
+Header
+*/
+header {
+    /*color: #CAD2FC;*/
+    /*background-color: #E2E7FD;
+    color: #071973;*/
+    background-color: var(--my_background_colour);
+    color: var(--my_colour);
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Permanent Marker',
+        'Segoe UI',
+        Tahoma,
+        Geneva,
+        Verdana,
+        sans-serif;
+}
+
+header section {
+    text-align: center;
+}
+
+/*
+Nav
+*/
+nav {}
+
+.menu {
+    flex-flow: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.menu a {
+    width: 100%;
+    text-align: center;
+    margin-top: 0.2em;
+    color: var(--my_colour_negative);
+    background-color: var(--my_background_colour_negative);
+    /*  color: #CAD2FC;
+    background-color: #071973;*/
+    text-decoration: none;
+    border-bottom: none;
+}
+
+.menu a:hover {
+    /*background-color: #9BAAF9;
+    color: #080E2C;*/
+    background-color: var(--my_background_colour);
+    color: var(--my_colour);
+
+    /* background-color: #E2E7FD;
+    color: #071973;*/
+    border-bottom: none;
+}
+
+/*
+SMHI
+*/
+#smhi-widget table {
+    width: 100%;
+}
+
+/*
+Main
+*/
+main {
+    display: flex;
+    flex-direction: column;
+    flex-flow: 1 0 auto;
+}
+
+main section {
+    display: flex;
+    flex-direction: column;
+    flex-flow: 1 0 auto;
+}
+
+figure {
+    /*border: thin silver solid;*/
+    /*used in development*/
+    font-size: smaller;
+    float: bottom;
+    padding: 0.5em;
+    text-align: center;
+    text-indent: 0;
+    padding: 0.5em;
+    width: 60%;
+    overflow: auto;
+}
+
+img.scaled {
+    width: 100%;
+}
+
+td,
+th {
+    padding-left: 0.2em;
+    text-align: left;
+}
+
+/*
+Collapsible button
+*/
+
+.collapsible {
+    color: var(--my_colour_negative);
+    background-color: var(--my_background_colour_negative);
+    /* color: #CAD2FC;
+    background-color: #071973;*/
+    cursor: pointer;
+    padding: 0.3em;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 1em;
+}
+
+.collapsible:after {
+    content: '\002B';
+    float: right;
+}
+
+.active:after {
+    content: "\2212";
+}
+
+.collapsible:hover {
+    background-color: var(--my_background_colour);
+    color: var(--my_colour);
+
+    /* background-color: #CAD2FC;
+    color: #071973;*/
+}
+
+.content {
+    transition: max-height 0.2s ease-out;
+}
+
+/*
+Footer
+*/
+footer {
+    background-color: var(--my_background_colour);
+    color: var(--my_colour);
+
+    /*    background-color: #E2E7FD;
+    color: #071973;*/
+
+}
+
+footer address {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    font-size: smaller;
+    flex-flow: 0 1 auto;
+}
+
+/*
+Contact form
+*/
+#kontaktformulr,
+#kontaktuppgifter {
+    padding: 0.2em 0em 0.2em 0.1em;
+}
+
+input[type=text],
+input[type=tel],
+input[type=email],
+input[type=submit],
+textarea {
+    display: block;
+    border-radius: 0.25em;
+    border: 0.1em solid #ccc;
+    padding: 0.2em;
+    width: 100%;
+    max-width: 30em;
+    overflow: auto;
+}
+textarea{
+    max-width: 30.75em;;
+}
+input[type=submit]{
+max-width: 30em;
+padding:0.5em;
+margin-top: 0.1em;
+margin-bottom:  1em;
+background-color: var(--my_background_colour_negative);
+color: var(--my_colour_negative);
+}
+input[type=submit]:hover{
+    background-color: var(--my_background_colour);
+    color: var(--my_colour);
+}
+/*
+General settings
+*/
+a {
+    text-decoration: none;
+    /*border-bottom: 1px dashed #071973;*/
+    border-bottom: 1px dashed var(--my_background_colour_negative);
+}
+
+a:hover {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/*
+Grid definations for mobile with 3 columns. Column 1 & 3 are
+buffer columns for Samsung edge screens. I have a Samsung edge
+mobile phone.
+*/
+header {
+    grid-area: header;
+}
+
+nav {
+    grid-area: nav;
+}
+
+aside {
+    grid-area: aside;
+}
+
+main {
+    grid-area: main;
+}
+
+footer {
+    grid-area: footer;
+}
+
+#wrapper {
+    display: grid;
+    grid-template-columns: 0.05fr 1fr 0.05fr;
+    grid-template-rows: auto;
+    /*grid-column-gap: 1.5%;*/
+    grid-row-gap: 0.015%;
+    grid-template-areas:
+        ". header ."
+        ". nav ."
+        ". aside ."
+        ". main ."
+        ". footer .";
+}
+
+/*
+Mdeia settings
+*/
+/*Tablets*/
+@media all and (min-width: 500px) {
+
+    /*enter styles here*/
+    html,
+    body {
+        font-size: calc(16px + .25vw);
+    }
+
+    #konrad {
+        float: left;
+    }
+
+    footer address {
+        flex-direction: row;
+        align-content: center;
+    }
+
+    input[type=text],
+    input[type=tel],
+    input[type=email],
+    textarea {
+        display: inline;
+        max-width: 28em;
+        overflow: auto;
+    }
+
+    input[type=tel] {
+        max-width: 34.6em;
+    }
+
+    input[type=email] {
+        max-width: 36.4em;
+    }
+
+input[type=submit]{
+    max-width: 39.4em;;
+}
+    textarea {
+        max-width: 32.2em;
+        margin-top: 0.7em;
+    }
+
+}
+
+/*Tablets landscape*/
+@media all and (min-width: 770px) {
+
+    /*enter styles here*/
+    html,
+    body {
+        font-size: calc(14px + .25vw);
+    }
+
+    input[type=text],
+    input[type=tel],
+    input[type=email],
+    textarea {
+        display: inline;
+        max-width: 29.8em;
+        overflow: auto;
+    }
+
+    input[type=tel] {
+        max-width: 36em;
+    }
+
+    input[type=email] {
+        max-width: 37.65em;
+    }
+input[type=submit] {
+    max-width: 10em;
+
+}
+    textarea {
+        max-width: 33.8em;
+        margin-top: 0.7em;
+    }
+
+    #wrapper {
+        display: grid;
+        grid-template-columns: 1fr 256px 257px 257px 1fr;
+        grid-template-rows: auto;
+        grid-column-gap: 0.5%;
+        grid-row-gap: 0.015%;
+        grid-template-areas:
+            ". nav  header header ."
+            ". main main main ."
+            ". footer footer footer .";
+    }
+
+    .menu a {
+        margin-top: 0;
+        margin-bottom: 0.11em;
+    }
+
+    #konrad {
+        float: left;
+    }
+
+    figure {
+        float: left;
+    }
+}
+
+/*PC's*/
+@media all and (min-width: 1500px) {
+
+    /*enter styles here*/
+    html,
+    body {
+        font-size: 16px;
+    }
+
+    #wrapper {
+        display: grid;
+        grid-template-columns: 1fr 340px 342px 342px 1fr;
+        grid-template-rows: auto;
+        grid-column-gap: 0.5%;
+        grid-row-gap: 0.015%;
+        grid-template-areas:
+            ". nav  header header ."
+            ". main main main ."
+            ". footer footer footer .";
+    }
+
+    #konrad {
+        float: left;
+    }
+}
