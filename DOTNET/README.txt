@@ -5,7 +5,7 @@ a project.
 
 Instructions:
 Each of the folders in this root folder contain a project developed on Visual Studio programmed in C# .Net 
-with WPF & XAML. A project may contain a folder called "DemoFiles". The "DemoFiles" folder contains 
+with WPF & XAML (data binding). A project may contain a folder called "DemoFiles". The "DemoFiles" folder contains 
 test files that are relevant to that particular project. Please use the contents of the folder when testing 
 a project.
 
